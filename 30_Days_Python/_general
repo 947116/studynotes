@@ -1,0 +1,41 @@
+"Do you really want to be a dev?" / MetaLevel - reports
+https://blog.codinghorror.com/so-you-dont-want-to-be-a-programmer-after-all/
+
+
+"Is it possible?" - Reports
+https://www.reddit.com/r/learnprogramming/comments/yjszjj/first_software_job_after_6_months_of_selflearning/
+https://www.reddit.com/r/reactnative/comments/151wwhn/it_has_been_4_months_and_i_cant_find_work/
+https://www.reddit.com/r/webdev/comments/16mxmk1/are_people_really_getting_jobs_after_3_months_of/
+https://www.reddit.com/r/learnprogramming/comments/nmn730/zero_experience_to_software_engineer_in_6_months/
+https://medium.com/@mushrafaltaf/landed-a-paid-software-engineering-internship-through-reddit-9d3bea703c21
+Good: https://www.reddit.com/r/webdev/comments/112m1lo/how_i_learned_to_code_in_6_months_got_a_job_offer/
+https://www.reddit.com/r/learnprogramming/comments/ucz2o1/is_it_possible_to_land_a_job_with_only_36_months/
+https://www.reddit.com/r/learnprogramming/comments/hv5nia/people_who_managed_to_get_hired_after_612_months/
+Good: https://techbeacon.com/app-dev-testing/coding-bootcamps-wont-make-you-developer-heres-what-will
+
+
+Study Ressources
+https://www.freecodecamp.org/
+- HTML, CSS, JavaScript (I took the first 3 sections of the JS curriculum)
+- freeCodeCamp is a great resource IMO, I watched some of their videos on YT (Data structures & algorithms, React, a bit of Bootstrap, etc).
+- freeCodeCamp's ES6 ~ It's essential to learn about the new syntax & features that ES6 bringed to JavaScript, specially if you want to learn a JS framework (like React) in the future. It may take you a lot of practice to get confortable with some concepts like arrow functions, promises and classes, but don't worry, take it step by step and be sure to practice since it helps a lot for you (it did for me) to retain what you learned. If you are more of a visual learner (like me) I recommend Web Dev Simplified YT channel for this kind of topics, since I consider him an amazing instructor.
+https://communitytaught.org/class/all
+https://leonnoel.com/100devs/
+- If you want to be part of an amazing community and learn together, you can give Leon's FREE bootcamp a try. I started the first few months (but didn't finished it) and it was great, he is an amazing structor and the streams were really good. If you are confortable with that kind of format, feel free to give it a try! You can check his YT channel if you want to have a grasp of what his bootcamp is like!
+Bro Code:  https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ
+https://leetcode.com/
+https://www.theodinproject.com/
+- More HTML, CSS, JavaScript, a bit of NodeJS. I finished the Foundations section and from here started learning from varied resources.
+https://scrimba.com/learn/learnreact
+One of the greatest (IMHO) courses to learn React as a beginner. If you pick this course and get started, I recommend you to (as soon as you feel comfortable) use the IDE of your preference (Visual Studio Code my personal pick) and start programming outside of the course's IDE. I recommend this since you can forget where you code is among the many chapters of the course.
+https://roadmap.sh/roadmaps
+- Last but not least! This amazing roadmap created by kamranahmedse (and the respective associates) is great for giving you a great grasp of what you need to learn for becoming a FrontEnd Developer. Now, don't feel intimidated by all the content included in it, take your time to learn those topics at your own pace and remember, you don't need to know every single one. I for sure don't and I'm sure a lot of developers don't know everything as well. Use this resource as a guide if you feel unsure to learn a certain topic that catched you attention, or want to pick the resources the creator offers/recommends.
+https://pll.harvard.edu/course/cs50-introduction-computer-science
+https://github.com/ossu/computer-science
+https://automatetheboringstuff.com/
+Good: https://www.reddit.com/r/learnprogramming/
+
+other
+https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/
+https://www.reddit.com/r/jobs/comments/37rgr1/heres_the_best_cover_letter_ive_ever_seen/
+Github Video to setup/push: https://www.youtube.com/watch?v=z5jZ9lrSpqk
