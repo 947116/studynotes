@@ -296,4 +296,11 @@ print(f'{a} % {b} = {a % b}')
 print(f'{a} // {b} = {a // b}')
 print(f'{a} ** {b} = {a ** b}')
 
+first_name = 'Robin'
+last_name = 'Kunz'
+name = first_name + ' ' + last_name
+print(name)
+print(first_name, last_name)
+
+
 # finally :))! That was a though one! But intersting!
